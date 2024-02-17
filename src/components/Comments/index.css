@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+}
+.details-container {
+  display: flex;
+  justify-content: space-around;
+}
